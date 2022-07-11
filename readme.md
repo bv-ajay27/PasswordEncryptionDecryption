@@ -24,6 +24,6 @@ Functionalities included:
 ![saved](https://user-images.githubusercontent.com/101974908/178294147-cdef86b3-1bb6-4651-ae31-217af38d40a4.JPG)
 ![twitter](https://user-images.githubusercontent.com/101974908/178294149-7088af09-1c17-44fe-975b-7967f94125c5.JPG)
 
-#### Git Link : https://github.com/bv-ajay27/PasswordEncryptionDecryption/edit/master/readme.md
+#### Git Link : https://github.com/bv-ajay27/PasswordEncryptionDecryption
 
 ### :)
